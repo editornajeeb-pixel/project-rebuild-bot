@@ -222,4 +222,5 @@ __pycache__/
 
 credentials.json
 
-.vscode/.env
+.vscode/
+.env
